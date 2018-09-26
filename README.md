@@ -1,0 +1,2 @@
+quick react app that uses IEX api to pull upcoming IPOs and allows one to search live
+The components are under App.js a better way would be to move them out to /components/SearchBar and /components/CompanyCard
